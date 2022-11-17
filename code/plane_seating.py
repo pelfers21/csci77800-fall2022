@@ -1,3 +1,6 @@
+#I have included the link for the original file Z created and we ran in Replit.
+#https://replit.com/@Halseyjhs/planeseatingpy#main.py 
+
 """This program simulates the sales of tickets for a specific flight.
 
 A plane is represented by a list. Each element of the list is a row in
